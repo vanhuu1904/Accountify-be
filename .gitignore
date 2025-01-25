@@ -1,0 +1,9 @@
+# compiled output
+/dist
+/node_modules
+
+# Mysql docker volume
+docker/database
+
+# env
+.env
